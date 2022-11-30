@@ -2,4 +2,4 @@
 #### see what your type app 
 ![](./Image/See_What_You_Type.png)
 
-[Deployed Link]()
+[Deployed Link](https://comfy-starlight-37c446.netlify.app/)
